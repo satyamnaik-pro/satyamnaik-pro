@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=satyamnaik-pro&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 <h1 align="center">Hi 👋, I'm Satyam</h1>
-<h3 align="center">Software Developer | Python Engineer | Cloud & Automation Enthusiast</h3>
+<h3 align="center">Software Development Engineer | Python, Java, SQL, ETL Pipelines, Automation | Cloud & Analytics Engineering | Generative AI</h3>
 
 
 # 💫 About Me:
