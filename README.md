@@ -57,10 +57,13 @@
 
 <br>
 
-### 🔄 Data & Internal Tools
+### 🔄 Data, Visualization & Internal Tools
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-2C3E50.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![QtPy](https://img.shields.io/badge/QtPy-41CD52.svg?style=for-the-badge&logo=qt&logoColor=white)
 
 <br>
 
